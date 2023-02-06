@@ -1,3 +1,2 @@
 # FRC 2106s Drive Simulator
-#### Drive various robots in a simulation of a charged up match!
-#### Currently a major work in progress!
+####A Unity based FRC 2023, charged up, game simulator used for driver practice and strategy. Currently a work in progress!
